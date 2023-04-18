@@ -1,6 +1,6 @@
 ## Archived
 
-This repo is no longer actively used. Please see the newer [Solstarter IDO](https://github.com/solstarter-org/solstarter-ido) repo for latest Solana IDO code.
+This repo is no longer actively used.
 
 [Whitepaper](https://solstarter.org/files/solstarter-whitepaper.pdf)
 
